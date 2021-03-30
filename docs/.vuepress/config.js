@@ -1,6 +1,6 @@
 module.exports = {
     title: "喂喂？维维~(◕ᴗ◕✿)",
-    description: 'FOLLOW YOUR HEART',
+    description: 'FOLLOW MY HEART',
     dest: 'dist',
     head: [
         ['link', {rel: 'icon', href: '/favicon.ico'}],
@@ -105,8 +105,6 @@ module.exports = {
                     collapsable: false,
                     children: [
                         ['', '开始'],
-                        ['Markdown', 'Markdown'],
-                        ['Concurrency', 'Concurrency'],
                     ],
 
                 },
