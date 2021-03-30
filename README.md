@@ -6,7 +6,7 @@
 
 ``` bash
 # 1. 首先拷贝该项目
-git clone https://github.com/shirleyliuchn/shirleyliuchn.github.io.git
+git clone https://github.com/vivien0818/vivien0818.github.io.git
 
 # 2. 安装依赖
 yarn
